@@ -1,0 +1,27 @@
+
+Replace `<your-username>` with your GitHub username.
+
+## 📌 Hosting Instructions
+
+### Option A: GitHub Pages (Recommended)
+1. Add `privacy.html` at the root of this repository.  
+2. Go to **Settings → Pages** in this repo.  
+3. Under *Source*, select `main` branch → `/ (root)`.  
+4. Save.  
+5. GitHub Pages will provide a public URL where your privacy policy is hosted.  
+
+### Option B: Google Drive
+1. Upload `privacy.html` to Google Drive.  
+2. Right-click → Share → set to “Anyone with the link → Viewer”.  
+3. Use a Drive-to-web hosting service if needed.  
+
+### Option C: Any Web Host / Notion
+1. Publish `privacy.html` to your own website, hosting service, or Notion page.  
+2. Copy the public link.  
+
+## 📬 Use in Chrome Web Store
+Take the link from one of the hosting methods above and paste it into the **Privacy Policy URL** field of your Chrome Web Store Developer Console under the **Privacy tab**.
+
+---
+
+© 2025 Blitzy. All rights reserved.
