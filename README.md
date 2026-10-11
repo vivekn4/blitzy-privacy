@@ -1,5 +1,8 @@
 # Blitzy — Privacy Policy 🛡️
 
+## Screenshot
+
+![Screenshot](assets/screenshot.png)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,15&height=170&section=header&text=Blitzy%20Privacy&fontSize=54&fontColor=ffffff&animation=fadeIn)
 
 ![Blitzy privacy banner](assets/banner.png)
@@ -10,10 +13,6 @@
 ![No build](https://img.shields.io/badge/build-none%20needed-brightgreen.svg)
 
 The official privacy policy page for **Blitzy**, a Chrome extension for tab management and per-site time tracking. A single self-contained `privacy.html` — no build step, no dependencies, ready to host.
-
-## Screenshots
-
-> 📸 Screenshots coming soon — open `privacy.html` in any browser to see the page live.
 
 ## Features
 
